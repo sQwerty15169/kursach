@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+notes.json
+config.json
+app.log
+kp_task_extracted.txt
